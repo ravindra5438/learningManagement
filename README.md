@@ -9,7 +9,8 @@ assignment for alemeno
    `git clone https://github.com/ravindra5438/learningManagement.git`
 2. then change your directory to learningManagement.
 3. install all the packages by running the following command.
-   ```npm i
+   ```
+   npm i
    or
    yarn install
    ```
