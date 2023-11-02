@@ -21,12 +21,12 @@ assignment for alemeno
    npx pod-install ios
    ```
    
-6. run the application by running following command.
+6. run the application by excuting following command.
    ```bash
    npx expo start
    or
    npm start
    ```
-7. scan the QR Code using expo go app or if you have local development setup[local development setup](https://reactnative.dev/docs/environment-setup) , you can tap `a` on terminal to run it on emulator.
+7. scan the QR Code using expo go app or if you have local development setup, [local development setup](https://reactnative.dev/docs/environment-setup) , you can tap `a` on terminal to run it on emulator.
    
    #### Happy Hacking!
