@@ -7,20 +7,26 @@ assignment for alemeno
 
 1. clone the project by using git clone command.
    `git clone https://github.com/ravindra5438/learningManagement.git`
-2. then change your directory to learningManagement.
-3. install all the packages by running the following command.
+   
+3. then change your directory to learningManagement.
+4. install all the packages by executing the following command.
    ```
    npm i
    or
    yarn install
    ```
-4. if you are using mac os then run.
+   
+5. if you are using mac os then execute.
    ```
    npx pod-install ios
    ```
-5. run the application by running following command.
-   ``` bash
+   
+6. run the application by running following command.
+   ```bash
    npx expo start
    or
    npm start
    ```
+7. scan the QR Code using expo go app or if you have local development setup[local development setup](https://reactnative.dev/docs/environment-setup) , you can tap `a` on terminal to run it on emulator.
+   
+   #### Happy Hacking!
