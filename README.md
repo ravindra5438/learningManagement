@@ -19,7 +19,7 @@ assignment for alemeno
    npx pod-install ios
    ```
 5. run the application by running following command.
-   ```javascript
+   ```bash
    npx expo start
    or
    npm start
