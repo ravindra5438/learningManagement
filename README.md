@@ -27,6 +27,6 @@ assignment for alemeno
    or
    npm start
    ```
-7. scan the QR Code using expo go app or if you have local development setup, [local development setup](https://reactnative.dev/docs/environment-setup) , you can tap `a` on terminal to run it on emulator.
+7. scan the QR Code using expo go app or if you have local development setup, [local development setup](https://reactnative.dev/docs/environment-setup) , you can tap `a` on terminal to run it on android emulator or `i` to run it on ios emulator.
    
    #### Happy Hacking!
