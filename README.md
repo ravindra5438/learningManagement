@@ -14,3 +14,13 @@ assignment for alemeno
    or
    yarn install
    ```
+4. if you are using mac os then run.
+   ```
+   npx pod-install ios
+   ```
+5. run the application by running following command.
+   ```javascript
+   npx expo start
+   or
+   npm start
+   ```
